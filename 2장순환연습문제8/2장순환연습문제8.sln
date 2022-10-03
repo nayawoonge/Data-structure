@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2장순환연습문제8", "2장순환연습문제8.vcxproj", "{C18F3B14-8559-467F-AF0E-67BC18B8BC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Debug|x64.ActiveCfg = Debug|x64
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Debug|x64.Build.0 = Debug|x64
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Debug|x86.ActiveCfg = Debug|Win32
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Debug|x86.Build.0 = Debug|Win32
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Release|x64.ActiveCfg = Release|x64
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Release|x64.Build.0 = Release|x64
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Release|x86.ActiveCfg = Release|Win32
+		{C18F3B14-8559-467F-AF0E-67BC18B8BC79}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96250FF7-E2C8-4D19-8EE3-17C43084542A}
+	EndGlobalSection
+EndGlobal
